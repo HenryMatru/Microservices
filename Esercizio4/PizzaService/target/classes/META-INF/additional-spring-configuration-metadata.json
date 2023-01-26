@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "app.rabbitmq.add-pizzas-routingkey",
+    "type": "java.lang.String",
+    "description": "A description for 'app.rabbitmq.add-pizzas-routingkey'"
+  },
+  {
+    "name": "app.rabbitmq.pizzas-added-routingkey",
+    "type": "java.lang.String",
+    "description": "A description for 'app.rabbitmq.pizzas-added-routingkey'"
+  },
+  {
+    "name": "app.rabbitmq.notify-pizzas-added-routingkey",
+    "type": "java.lang.String",
+    "description": "A description for 'app.rabbitmq.notify-pizzas-added-routingkey'"
+  }
+]}
